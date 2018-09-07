@@ -1,4 +1,6 @@
  # Tab in gifts  
+ Simple app to practice data binding 
+ > This app still use java .
 
  ## Requirements :
      *Android studio 3.1 and above .
